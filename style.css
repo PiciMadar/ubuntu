@@ -1,0 +1,87 @@
+body{
+    background-color: #f9f9f9;
+    color: 4f4f4f;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+#keret{
+    width: 1125px;
+    border: solid 1px #e0e0e0;
+    background-color: white;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+#fejlec{
+    width: 1125px;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("omg.png");
+}
+
+#lablec{
+    clear: both;
+    color: #808080;
+    width: 1085px;
+    margin: 0px;
+    padding: 20px;
+    background-color: #efefef;
+    text-align: center;
+}
+
+#torzs{
+    width: 1125px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#cikk{
+    float: left;
+    width: 720px;
+    margin: 0px;
+    padding: 20px;
+    background-color: white;
+}
+
+#kommentek{
+    float: right;
+    width: 300px;
+    height: 1300px;
+    margin: 0px;
+    padding: 20px;
+    background-color:  #efefef;
+}
+
+.komment{
+    margin: 10px;
+    background-color: white;
+    border: solid 0px black;
+}
+
+h1{
+    color: #333333;
+    font-size: 32px;
+}
+
+h2{
+    color: #f15d22;
+    font-size: 24px;
+}
+
+img{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+a{
+    font-weight: bold;
+    color: #f15d22;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #a0a0a0;
+}
